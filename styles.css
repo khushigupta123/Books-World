@@ -1,0 +1,106 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  padding: 0 20px;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.book-img {
+  opacity: 1;
+  margin:50px 20px 50px 20px;
+  height: 300px;
+  width: 200px;
+}
+
+.container:hover .book-img {
+  opacity: 0.5;
+}
+
+.book-title {
+  background-color: #FFC900;
+  font-weight: 900;
+  color: #086e7d;
+  font-size: 50px;
+  margin-top: 50px;
+  padding: 10px 100px 10px;
+  text-align: center;
+}
+
+.contact {
+  background-color: #FFC900;
+  font-weight: 900;
+  color: #086e7d;
+  font-size: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 10px 100px 10px;
+  text-align: center;
+}
+
+.logo1 {
+  width: 20%;
+  margin: 20px 120px;
+}
+
+.logo2 {
+  width: 25%;
+  border-radius: 100%;
+  margin: 10px 120px;
+}
+
+.logo3 {
+  width: 50%;
+  margin: 5px 50px;
+}
+.collabs {
+  background-color: #FFF89A;
+  padding: 20px;
+  width: 100%;
+  height: 400px;
+}
+
+.c-para {
+  width:60%;
+  margin:auto;
+  color: #086E7D;
+}
+
+.bottom-container {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px; 
+}
+
+h1 {
+  text-align: center;
+  padding: 30px 20px 40px;
+}
+
+.message {
+  height: 100px;
+  width: 100%;
+  margin: auto;
+}
+
+.box {
+  position: absolute;
+  left: 180px;
+}
+
+.text-fields {
+  padding: 20px;
+}
+
+.footer-link {
+  padding: 10px 0 10px 150px;
+}

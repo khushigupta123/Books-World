@@ -1,0 +1,36 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  padding: 0 20px;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 30px;
+}
+
+.heading {
+  padding: 100px 100px;
+}
+
+h1 {
+  font-family: 'Mochiy Pop P One', sans-serif;
+  font-weight: bolder;
+  margin: auto;
+  color: #fff;
+  width: 60%;
+}
+
+.book-img {
+  opacity: 1;
+  margin:50px 20px 50px 20px;
+  height: 300px;
+  width: 200px;
+}
+
+.container:hover .book-img {
+  opacity: 0.5;
+}
