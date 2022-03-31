@@ -21,6 +21,7 @@ body {
 
 .container:hover .book-img {
   opacity: 0.5;
+  cursor: help;
 }
 
 .book-title {
